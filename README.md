@@ -1,16 +1,21 @@
-## Hi there 👋
+# Delta-One Capital Sàrl 🇨🇭
 
-<!--
-**Delta117-117/Delta117-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Swiss company (Geneva) building and operating AI infrastructure — GDPR + nLPD compliant, Swiss & EU hosting.**
 
-Here are some ideas to get you started:
+We design, install, secure, and run AI agents and business automations on infrastructure our clients own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+### 🤖 OpenClawPro — Managed OpenClaw installation
+Professional, done-for-you installation, security hardening, and Swiss/EU-hosted operation of **OpenClaw** AI agents. Managed and self-hosted options. The official commercial service — distinct from the open-source OpenClaw project.
+
+**→ https://www.openclawpro.ai**
+
+### ⚙️ WarMachine33 — AI Automation Agency
+Swiss AI automation agency. We design, deploy, and run business automations (invoicing, email, documents, onboarding) on infrastructure you own. Diagnostic from CHF 490, credited to your build.
+
+**→ https://warmachine33.cloud**
+
+---
+
+📍 Geneva, Switzerland · GDPR + nLPD compliant · `contact@openclawpro.ai`
